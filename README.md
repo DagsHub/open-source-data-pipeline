@@ -18,7 +18,7 @@ DagsHub is excited to introduce the DVC Data Pipeline Contribution Challenge. In
 
 Here's a step-by-step guide to get involved in this challenge:
 
-1. **Choose a Project**: Explore open-source projects on DagsHub and select one that interests you. It can be any project that utilizes data pipelines or would benefit from one.
+1. **Choose a Project**: Explore [open-source projects on DagsHub](https://dagshub.com/explore/repos) and select one that interests you. It can be any project that utilizes data pipelines or would benefit from one.
 2. **Create the DVC Pipeline**: Fork the project under your name and using DVC, design and **execute** a data pipeline that suits the project's needs. Ensure it follows best practices for data versioning, reproducibility, and scalability.
 3. **Document Your Pipeline**: As you build the pipeline, maintain clear and concise documentation describing its purpose, data sources, processing steps, and any dependencies. This documentation is crucial for future users and contributors and should be added to the project’s README file.
 4. **Tag your project:** Add relevant tags to the repository and files including `dvc` ,`data-pipeline`, and `hacktoberfest` labels to the DagsHub repository.
