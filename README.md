@@ -23,7 +23,7 @@ Here's a step-by-step guide to get involved in this challenge:
 3. **Document Your Pipeline**: As you build the pipeline, maintain clear and concise documentation describing its purpose, data sources, processing steps, and any dependencies. This documentation is crucial for future users and contributors and should be added to the project’s README file.
 4. **Tag your project:** Add relevant tags to the repository and files including `dvc` ,`data-pipeline`, and `hacktoberfest` labels to the DagsHub repository.
 5. **Submit Your Contribution**: Open a Pull Request to the project on DagsHub.
-6. **Proof of Contribution**:  Open a Pull Request [here](https://github.com/DagsHub/open-source-ml-datasets) with the `dvc.yaml` and `dvc.lock` files and a link to the DagsHub repo.
+6. **Proof of Contribution**:  Open a Pull Request [here](https://github.com/DagsHub/open-source-data-pipelin) with the `dvc.yaml` and `dvc.lock` files and a link to the DagsHub repo.
 
 ## **Why Join the Challenge?**
 
