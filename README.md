@@ -2,7 +2,7 @@
 
 **Welcome to DagsHub’s Data Pipeline contribution project for Hacktoberfest 2023!**
 
-![Hacktoberfest ML project - DagsHub](https://github.com/DagsHub/open-source-experiment-tracking/assets/66431403/dce6a0af-b6a7-4078-a77c-852dc5ae4bec)
+![hero-narrow](https://github.com/DagsHub/open-source-data-pipeline/assets/66431403/bd55f2da-c565-4fff-9cc5-c5f87e401df2)
 
 In this exciting Hacktoberfest challenge, DagsHub invites you to build data pipelines using DVC for automation and versioning of Open Source Machine Learning projects.
 
@@ -21,9 +21,9 @@ Here's a step-by-step guide to get involved in this challenge:
 1. **Choose a Project**: Explore [open-source projects on DagsHub](https://dagshub.com/explore/repos) and select one that interests you. It can be any project that utilizes data pipelines or would benefit from one.
 2. **Create the DVC Pipeline**: Fork the project under your name and using DVC, design and **execute** a data pipeline that suits the project's needs. Ensure it follows best practices for data versioning, reproducibility, and scalability.
 3. **Document Your Pipeline**: As you build the pipeline, maintain clear and concise documentation describing its purpose, data sources, processing steps, and any dependencies. This documentation is crucial for future users and contributors and should be added to the project’s README file.
-4. **Tag your project:** Add relevant tags to the repository and files including `dvc` ,`data-pipeline`, and `hacktoberfest` labels to the DagsHub repository.
+4. **Tag your project:** Add relevant tags to the repository and files including `dvc`,`data-pipeline`, `hacktoberfest`, and `hacktoberfest-2023` labels to the DagsHub repository.
 5. **Submit Your Contribution**: Open a Pull Request to the project on DagsHub.
-6. **Proof of Contribution**:  Open a Pull Request [here](https://github.com/DagsHub/open-source-data-pipelin) with the `dvc.yaml` and `dvc.lock` files and a link to the DagsHub repo.
+6. **Proof of Contribution**:  Open a Pull Request [here](https://github.com/DagsHub/open-source-data-pipelin) with the `README.md`, `dvc.yaml` and `dvc.lock` files and a link to the DagsHub repo.
 
 ## **Why Join the Challenge?**
 
